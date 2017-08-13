@@ -1,4 +1,4 @@
-# Intro
+# Starting Out
 
 Use GHCi:
 
